@@ -1,0 +1,1 @@
+start "" "%CD%\Emulator\fceux.exe" game.nes
